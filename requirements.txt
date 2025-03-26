@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+openai==0.28
+requests
+bs4
+trafilatura
+scikit-learn
+xlsxwriter
